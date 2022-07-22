@@ -10,7 +10,9 @@ oddEven() {
   var x = true;
   int num;
   var data;
+  //arrO = array of odd numbers
   List<int> arrO = [];
+  //arrE = array of even numbers
   List<int> arrE = [];
   while (x) {
     print("Enter your input :");
